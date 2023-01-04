@@ -1,0 +1,4 @@
+# RansomWare-Example
+WARNING: PLEASE DONT USE THIS AS A VIRUS THIS IS JUST FOR FUN AND WE ARE DOING THIS 100% ETHICALLY
+
+### This is an marked an **archive**
